@@ -1,5 +1,5 @@
 import telebot
-
+import time
 bot = telebot.TeleBot('1558655939:AAEjqzITJd0A-WVyF2HammsZZRtO66LHaqg')
 
 keyboard1 = telebot.types.ReplyKeyboardMarkup(True, True)
